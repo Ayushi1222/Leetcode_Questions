@@ -38,14 +38,14 @@ class Solution {
                 if(c==k)
                 {
                     n++;
-                    if(n==m)
-                    return true;
+                    if(n==m) 
+                    return true;//Aage change nhi mila to yhi se return krna pdega
                     c=0;
                 }
             }
             else
             {
-                c=0;// Breaking the sequence
+                c=0;// Breaking the sequence hence zero
             }
         }
         return n==m;
