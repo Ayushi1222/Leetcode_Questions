@@ -7,6 +7,7 @@ class Solution {
         e+=candies[i];
         if(e<k)
         return 0;
+        e=e/k;
         while(s<=e)
         {
           long mid=(s+e)/2;
