@@ -29,16 +29,16 @@ class Solution {
         int readpages=0;
         for(int i=0;i<nums.length;i++)
         {
-            if(readpages+nums[i]>mid)
+            if(readpages+nums[i]<=mid)
+            {
+                readpages+=nums[i];
+            }
+            else
             {
                 s++;
                 readpages=nums[i];
                 if(s>k)
                 return false;
-            }
-            else
-            {
-                readpages+=nums[i];
             }
         }
         return s<=k;
