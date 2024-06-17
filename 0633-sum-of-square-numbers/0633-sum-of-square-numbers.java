@@ -6,7 +6,6 @@ class Solution {
        while(l<=r)
        {
         long sum=(long)l*l+(long)r*r;
-        System.out.println(sum);
         if(sum==c)
         return true;
         else if(sum<c)
