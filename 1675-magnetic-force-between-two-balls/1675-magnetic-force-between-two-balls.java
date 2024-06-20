@@ -3,9 +3,7 @@ class Solution {
         Arrays.sort(position);
         int ans=0;
         int s=1;
-        int e=0;
-        for(int i=0;i<position.length;i++)
-        e=Math.max(position[i],e);
+        int e=position[position.length-1]-position[0];
         while(s<=e)
         {
             int mid=(s+e)/2;
