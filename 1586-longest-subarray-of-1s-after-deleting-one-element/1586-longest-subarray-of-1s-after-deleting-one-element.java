@@ -10,7 +10,7 @@ class Solution {
             {
                 z++;
             }
-            if(z>1)
+            while(z>1)
             {
                 if(nums[i]==0)
                 {
