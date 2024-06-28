@@ -4,13 +4,13 @@ class Solution {
         int j=0;
         int ans=0;
         int z=0;
-        while(i<nums.length && j<nums.length)
+        while(j<nums.length)
         {
             if(nums[j]==0)
             {
                 z++;
             }
-            while(z>1)
+            if(z>1)
             {
                 if(nums[i]==0)
                 {
