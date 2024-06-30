@@ -1,24 +1,76 @@
 class Solution {
+    
     public int maxHeightOfTriangle(int red, int blue) {
-        for(int t = red+blue;t >= 1;t--)
+        return Math.max(maxRed(red, blue), maxBlue(red, blue));
+    }
+
+    private int maxRed(int red, int blue) 
+    {
+        int count = 1;
+        while (true) 
         {
-				int o = 0, e = 0;
-				for(int i = 1;i <= t;i++)
+            int n= count;
+
+            if (count % 2 != 0) 
+            {  
+                if (red >= n) 
                 {
-					if(i % 2 == 1) 
-                    {
-						o += i;
-					}
-                    else
-                    {
-						e += i;
-					}
-				}
-				if(o <= red && e <= blue || e <= red && o <= blue)
+                    red -= n;
+                    count++;
+                } 
+                else 
                 {
-					return t;
-				}
-			}
-			return 0;
+                    break;
+                }
+            } 
+            else 
+            {  
+                if (blue >= n) 
+                {
+                    blue -= n;
+                    count++;
+                } 
+                else 
+                {
+                    break;
+                }
+            }
+        }
+
+        return count - 1;
+    }
+
+    private int maxBlue(int red, int blue) {
+        int count = 1;
+        while (true) 
+        {
+            int n = count;
+            if (count % 2 != 0) 
+            {  
+                if (blue >= n) 
+                {
+                    blue -= n;
+                    count++;
+                } 
+                else 
+                {
+                    break;
+                }
+            } 
+            else 
+            { 
+                if (red >= n) 
+                {
+                    red -= n;
+                    count++;
+                }
+                else 
+                {
+                    break;
+                }
+            }
+        }
+
+        return count - 1;
     }
 }
