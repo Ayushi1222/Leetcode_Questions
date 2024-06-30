@@ -1,76 +1,21 @@
 class Solution {
-    
     public int maxHeightOfTriangle(int red, int blue) {
-        return Math.max(maxRed(red, blue), maxBlue(red, blue));
+        return Math.max(helper(red,blue), helper(blue,red));
     }
-
-    private int maxRed(int red, int blue) 
-    {
-        int count = 1;
-        while (true) 
-        {
-            int n= count;
-
-            if (count % 2 != 0) 
-            {  
-                if (red >= n) 
-                {
-                    red -= n;
-                    count++;
-                } 
-                else 
-                {
-                    break;
-                }
-            } 
-            else 
-            {  
-                if (blue >= n) 
-                {
-                    blue -= n;
-                    count++;
-                } 
-                else 
-                {
-                    break;
-                }
+    private int helper(int x, int y) {
+        boolean flag = false;
+        int c = 0;
+        for (int i = 1;; i++) {
+            if (!flag) {
+                if (x >= i) x -= i;
+                else break;
+            } else {
+                if (y >= i) y -= i;
+                else break;
             }
+            flag = !flag;
+            c++;
         }
-
-        return count - 1;
-    }
-
-    private int maxBlue(int red, int blue) {
-        int count = 1;
-        while (true) 
-        {
-            int n = count;
-            if (count % 2 != 0) 
-            {  
-                if (blue >= n) 
-                {
-                    blue -= n;
-                    count++;
-                } 
-                else 
-                {
-                    break;
-                }
-            } 
-            else 
-            { 
-                if (red >= n) 
-                {
-                    red -= n;
-                    count++;
-                }
-                else 
-                {
-                    break;
-                }
-            }
-        }
-
-        return count - 1;
+        return c;
     }
 }
