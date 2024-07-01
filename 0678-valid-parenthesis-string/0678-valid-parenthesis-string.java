@@ -1,5 +1,6 @@
 class Solution {
     public boolean checkValidString(String s) {
+        //Solution in which instead of one counter we are checking for a range in it.
         int min=0;
         int max=0;
         for(int i=0;i<s.length();i++)
