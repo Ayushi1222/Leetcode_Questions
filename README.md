@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0966-binary-subarrays-with-sum) |
+| [1293-three-consecutive-odds](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1293-three-consecutive-odds) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
 |  |
