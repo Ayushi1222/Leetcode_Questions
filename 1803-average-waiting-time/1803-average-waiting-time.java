@@ -8,7 +8,6 @@ class Solution {
             tt=Math.max(curr,c[i][0])+c[i][1];
             avg+= tt - c[i][0];
             curr = tt;
-            System.out.println(avg);
         }
         return (double)avg/c.length;
     }
