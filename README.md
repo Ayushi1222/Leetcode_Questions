@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -112,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [1642-water-bottles](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
