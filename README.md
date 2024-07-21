@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2846-robot-collisions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2379-maximum-total-importance-of-roads) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Hash Table
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
 | ------- |
