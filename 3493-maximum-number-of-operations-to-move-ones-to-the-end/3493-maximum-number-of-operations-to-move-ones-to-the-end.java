@@ -1,18 +1,23 @@
 class Solution {
     public int maxOperations(String s) {
-        int n = s.length();
-			int eo = 0;
-			int ans = 0;
-			for(int i = n-1;i >= 0;i--)
+        int i = 0, cnt = 0, ans = 0;
+        
+        while (i < s.length()) 
+        {
+            if (s.charAt(i) == '1') 
             {
-				if(s.charAt(i) == '1' && (i+1 < n && s.charAt(i+1) == '0'))
+                cnt++;
+                i++;
+            } 
+            else 
+            {
+                while (i < s.length() && s.charAt(i) == '0') 
                 {
-					eo++;
-				}
-				if(s.charAt(i) == '1'){
-					ans += eo;
-				}
-			}
-			return ans;
+                    i++;
+                }
+                ans += cnt;
+            }
+        }
+        return ans;
     }
 }
