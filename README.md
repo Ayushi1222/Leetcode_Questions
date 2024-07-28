@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Sorting
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Topological Sort
 |  |
 | ------- |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
