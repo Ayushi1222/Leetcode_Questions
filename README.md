@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0966-binary-subarrays-with-sum) |
+| [1196-filling-bookcase-shelves](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
+| [1196-filling-bookcase-shelves](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
