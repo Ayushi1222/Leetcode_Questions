@@ -262,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1511-count-number-of-teams) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
