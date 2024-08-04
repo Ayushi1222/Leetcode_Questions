@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1720-crawler-log-folder) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2379-maximum-total-importance-of-roads) |
@@ -161,12 +163,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0908-middle-of-the-linked-list) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Linked List
 |  |
