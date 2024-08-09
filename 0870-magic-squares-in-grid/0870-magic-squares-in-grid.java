@@ -1,46 +1,50 @@
 class Solution {
     public int numMagicSquaresInside(int[][] grid) {
-        int count = 0;
-        int rows = grid.length;
-        int cols = grid[0].length;
-
-        for (int i = 0; i <= rows - 3; i++) {
-            for (int j = 0; j <= cols - 3; j++) {
-                if (isMagicSquare(grid, i, j)) {
-                    count++;
-                }
+        int c=0;
+        int rows=grid.length;
+        int cols=grid[0].length;
+        for(int i=0;i<=rows-3;i++)
+        {
+            for(int j=0;j<=cols-3;j++)
+            {
+                if(isMagicMatrix(grid,i,j))
+                c++;
             }
         }
-
-        return count;
+        return c;
     }
-    private boolean isMagicSquare(int[][] grid, int i, int j) {
-        // Check for distinct numbers from 1 to 9
-        boolean[] seen = new boolean[10];
-        for (int x = 0; x < 3; x++) {
-            for (int y = 0; y < 3; y++) {
-                int num = grid[i + x][j + y];
-                if (num < 1 || num > 9 || seen[num]) return false;
-                seen[num] = true;
+
+    private boolean isMagicMatrix(int[][] grid,int i,int j)
+    {
+        boolean[] seen=new boolean[10];
+        for(int x=0;x<3;x++)
+        {
+            for(int y=0;y<3;y++)
+            {
+                int num=grid[x+i][y+j];
+                if(num<1 || num>9 || seen[num]) return false;
+                seen[num]=true;
             }
         }
-
-        int sum = grid[i][j] + grid[i][j+1] + grid[i][j+2];  // First row sum
-        
-        // Check rows
-        for (int x = 0; x < 3; x++) {
-            if (sum != grid[i + x][j] + grid[i + x][j + 1] + grid[i + x][j + 2]) return false;
+        //SUM
+        int sum=grid[i][j]+grid[i][j+1]+grid[i][j+2];
+        //each row sum
+        for(int x=0;x<3;x++)
+        {
+            int rsum=grid[x+i][j]+grid[x+i][j+1]+grid[x+i][j+2];
+            if(rsum!=sum) return false;
         }
-
-        // Check columns
-        for (int y = 0; y < 3; y++) {
-            if (sum != grid[i][j + y] + grid[i + 1][j + y] + grid[i + 2][j + y]) return false;
+        //each col sum
+        for(int x=0;x<3;x++)
+        {
+            int rsum=grid[i][x+j]+grid[i+1][x+j]+grid[i+2][x+j];
+            if(rsum!=sum) return false;
         }
-
-        // Check diagonals
-        if (sum != grid[i][j] + grid[i+1][j+1] + grid[i+2][j+2]) return false;
-        if (sum != grid[i+2][j] + grid[i+1][j+1] + grid[i][j+2]) return false;
-
+        //diagonal sum
+        int d1sum=grid[i][j]+grid[i+1][j+1]+grid[i+2][j+2];
+        if(d1sum!=sum) return false;
+        int d2sum=grid[i+2][j]+grid[i+1][j+1]+grid[i][j+2];
+        if(d2sum!=sum) return false;
         return true;
     }
 }
