@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [1196-filling-bookcase-shelves](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0966-binary-subarrays-with-sum) |
+| [1240-stone-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1240-stone-game-ii) |
 ## String
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1240-stone-game-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1642-water-bottles](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -385,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
