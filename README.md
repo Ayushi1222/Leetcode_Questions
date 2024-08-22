@@ -399,4 +399,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0476-number-complement) |
+| [1054-complement-of-base-10-integer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
