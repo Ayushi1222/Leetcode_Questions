@@ -15,24 +15,18 @@
  */
 class Solution {
     public int diameterOfBinaryTree(TreeNode root) {
-        return Daimeter(root).d;
+        int[] ans=new int[1];
+        diameter(root,ans);
+        return ans[0];
     }
-    public Daipair Daimeter(TreeNode root)
+
+    private int diameter(TreeNode root,int[] ans)
     {
-         if(root==null)
-         {
-            return new Daipair();
-         }
-         Daipair ldp= Daimeter(root.left);
-         Daipair rdp =Daimeter(root.right);
-         Daipair sdp=new Daipair();
-         sdp.ht=Math.max(ldp.ht,rdp.ht)+1;
-         int sd=ldp.ht+rdp.ht+2;
-         sdp.d=Math.max(sd,Math.max(ldp.d,rdp.d));
-         return sdp;
-    }
-    class Daipair{
-        int d=0;
-        int ht=-1;
+        if(root== null) 
+        return 0;
+        int left=diameter(root.left,ans);
+        int right=diameter(root.right,ans);
+        ans[0]=Math.max(ans[0],left+right);
+        return 1 + Math.max(left,right);
     }
 }
