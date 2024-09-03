@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0018-4sum) |
 | [0040-combination-sum-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0045-jump-game-ii) |
+| [0200-number-of-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0543-diameter-of-binary-tree) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0999-regions-cut-by-slashes) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0999-regions-cut-by-slashes) |
 | [2035-count-sub-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2035-count-sub-islands) |
