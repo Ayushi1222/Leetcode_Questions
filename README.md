@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1240-stone-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0726-number-of-atoms) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1720-crawler-log-folder](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
