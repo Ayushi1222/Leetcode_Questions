@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0870-magic-squares-in-grid) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0948-sort-an-array) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0402-remove-k-digits) |
+| [0539-minimum-time-difference](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0664-strange-printer) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0002-add-two-numbers) |
 | [0264-ugly-number-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0650-2-keys-keyboard) |
