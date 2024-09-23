@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2846-robot-collisions) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2755-extra-characters-in-a-string) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2755-extra-characters-in-a-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
@@ -593,4 +597,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
