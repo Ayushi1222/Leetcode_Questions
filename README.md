@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0731-my-calendar-ii) |
 | [0790-global-and-local-inversions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0790-global-and-local-inversions) |
 | [0841-shortest-distance-to-a-character](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0841-shortest-distance-to-a-character) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0870-magic-squares-in-grid) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1240-stone-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1435-xor-queries-of-a-subarray) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0731-my-calendar-ii) |
 | [1023-time-based-key-value-store](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1023-time-based-key-value-store) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1023-time-based-key-value-store) |
 ## Binary Search Tree
@@ -634,8 +638,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
