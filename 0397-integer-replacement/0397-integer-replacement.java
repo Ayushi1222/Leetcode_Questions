@@ -1,7 +1,7 @@
 class Solution {
     public int integerReplacement(int n) {
         int c=0;
-        if(n==2147483647)
+        if(n==Integer.MAX_VALUE)
         return 32;
         while(n>1)
         {
