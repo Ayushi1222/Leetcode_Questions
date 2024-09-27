@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0264-ugly-number-ii) |
+| [0397-integer-replacement](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0397-integer-replacement) |
 | [0650-2-keys-keyboard](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0397-integer-replacement](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0477-total-hamming-distance) |
 | [1054-complement-of-base-10-integer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1054-complement-of-base-10-integer) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0241-different-ways-to-add-parentheses) |
+| [0397-integer-replacement](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0397-integer-replacement) |
 ## Rolling Hash
 |  |
 | ------- |
