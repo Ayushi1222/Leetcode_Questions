@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0396-rotate-function) |
 | [0477-total-hamming-distance](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0477-total-hamming-distance) |
 | [0539-minimum-time-difference](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0624-maximum-distance-in-arrays) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0264-ugly-number-ii) |
+| [0396-rotate-function](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0397-integer-replacement) |
 | [0650-2-keys-keyboard](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0664-strange-printer) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0273-integer-to-english-words) |
+| [0396-rotate-function](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0396-rotate-function) |
 | [0477-total-hamming-distance](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0477-total-hamming-distance) |
 | [0539-minimum-time-difference](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0564-find-the-closest-palindrome) |
