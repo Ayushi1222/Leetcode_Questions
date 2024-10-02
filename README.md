@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1196-filling-bookcase-shelves](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0948-sort-an-array) |
+| [1256-rank-transform-of-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1561-rearrange-words-in-a-sentence) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1023-time-based-key-value-store) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1256-rank-transform-of-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
