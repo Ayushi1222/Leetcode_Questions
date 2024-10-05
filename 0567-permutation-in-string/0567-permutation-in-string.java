@@ -1,39 +1,34 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        int i = 0;
-        int j = 0;
-        int c = 0;
+        if (s1.length() > s2.length()) return false;
         int[] s1Count = new int[26];
-        for (char ch : s1.toCharArray()) 
+        int[] s2Count = new int[26];
+        for (int i = 0; i < s1.length(); i++) 
         {
-            s1Count[ch - 'a']++;
+            s1Count[s1.charAt(i) - 'a']++;
         }
-        int[] windowCount = new int[26];
-
-        while (j < s2.length()) 
+        for (int i = 0; i < s2.length(); i++) 
         {
-            char ch = s2.charAt(j);
-            windowCount[ch - 'a']++;
-            if (j - i + 1 > s1.length()) 
-            {
-                windowCount[s2.charAt(i) - 'a']--;
-                i++;
+            // Add current character to s2Count
+            s2Count[s2.charAt(i) - 'a']++;
+
+            // Once the window size exceeds s1.length(), remove the leftmost character
+            if (i >= s1.length()) {
+                s2Count[s2.charAt(i - s1.length()) - 'a']--;
             }
-            if (checkEqual(s1Count, windowCount)) 
-            {
+
+            // Check if the two arrays are equal (i.e., we have a valid permutation)
+            if (matches(s1Count, s2Count)) {
                 return true;
             }
-
-            j++;
         }
-        
+
         return false;
     }
-    private boolean checkEqual(int[] s1Count, int[] windowCount) {
+    private boolean matches(int[] s1Count, int[] s2Count) {
         for (int i = 0; i < 26; i++) 
         {
-            if (s1Count[i] != windowCount[i]) 
-            {
+            if (s1Count[i] != s2Count[i]) {
                 return false;
             }
         }
