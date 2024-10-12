@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0731-my-calendar-ii) |
 | [0790-global-and-local-inversions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0790-global-and-local-inversions) |
+| [0817-design-hashmap](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0817-design-hashmap) |
 | [0841-shortest-distance-to-a-character](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-design-circular-deque](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0870-magic-squares-in-grid) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0726-number-of-atoms) |
+| [0817-design-hashmap](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0817-design-hashmap) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0870-magic-squares-in-grid) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0906-walking-robot-simulation](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0906-walking-robot-simulation) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0328-odd-even-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0725-split-linked-list-in-parts) |
+| [0817-design-hashmap](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1484-linked-list-in-binary-tree) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0817-design-hashmap](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0859-design-circular-deque) |
 | [1023-time-based-key-value-store](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1023-time-based-key-value-store) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -702,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0214-shortest-palindrome) |
+| [0817-design-hashmap](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0817-design-hashmap) |
 ## Trie
 |  |
 | ------- |
