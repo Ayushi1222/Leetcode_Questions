@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0264-ugly-number-ii) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0264-ugly-number-ii) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0397-integer-replacement) |
 ## Rolling Hash
