@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0724-find-pivot-index](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0731-my-calendar-ii) |
 | [0790-global-and-local-inversions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0790-global-and-local-inversions) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1240-stone-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1240-stone-game-ii) |
