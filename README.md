@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0396-rotate-function) |
 | [0477-total-hamming-distance](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0477-total-hamming-distance) |
+| [0496-next-greater-element-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0432-all-oone-data-structure](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0432-all-oone-data-structure) |
+| [0496-next-greater-element-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0726-number-of-atoms) |
 | [0817-design-hashmap](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0817-design-hashmap) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [0726-number-of-atoms](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
 ## Binary Indexed Tree
 |  |
