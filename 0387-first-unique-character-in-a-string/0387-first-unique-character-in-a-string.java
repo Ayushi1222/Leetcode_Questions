@@ -1,13 +1,13 @@
 class Solution {
     public int firstUniqChar(String s) {
-        HashMap<Character, Integer> map=new HashMap<>();
+        String l="";
+        String r="";
         for(int i=0;i<s.length();i++)
         {
-            map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
-        }
-        for(int i=0;i<s.length();i++)
-        {
-            if(map.get(s.charAt(i))==1)
+            String curr=String.valueOf(s.charAt(i));
+            l=s.substring(0,i);
+            r=s.substring(i+1);
+            if(!l.contains(curr) && !r.contains(curr))
             return i;
         }
         return -1;
