@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3544-count-almost-equal-pairs-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2803-modify-graph-edge-weights](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2803-modify-graph-edge-weights) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2803-modify-graph-edge-weights) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -611,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2472-build-a-matrix-with-conditions) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -656,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1325-path-with-maximum-probability) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2803-modify-graph-edge-weights](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2803-modify-graph-edge-weights) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
