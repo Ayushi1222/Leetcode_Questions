@@ -22,11 +22,9 @@ class Solution {
     }
     private boolean sameSetBits(int a , int b)
     {
-        String sta=Integer.toBinaryString(a);
-        String stb=Integer.toBinaryString(b);
-        sta=sta.replaceAll("0","");
-        stb=stb.replaceAll("0","");
-        if(sta.length()==stb.length())
+        int acnt=Integer.bitCount(a);
+        int bcnt=Integer.bitCount(b);
+        if(acnt==bcnt)
         return true;
         return false;
     }
