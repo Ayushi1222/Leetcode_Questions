@@ -1,31 +1,28 @@
 class Solution {
     public boolean canSortArray(int[] nums) {
-        for(int i=0;i<nums.length;i++)
+        // Hum array ko same no of bits ke segment mai divide kr rhe hai and 
+        // if ek segment ka max dusre segment ke min se bada hua to wo swap
+        // nhi ho skta we'll return false.
+        int prevMax=0;
+        int i=0;
+        while(i<nums.length)
         {
-            for(int j=0;j<nums.length-1;j++)
+            int count=Integer.bitCount(nums[i]);
+            int j=i+1;
+            int max=nums[i], min=nums[i];
+            while(j<nums.length && Integer.bitCount(nums[j])==count)
             {
-                if(nums[j]>nums[j+1] && sameSetBits(nums[j],nums[j+1]))
-                {
-                    int temp=nums[j];
-                    nums[j]=nums[j+1];
-                    nums[j+1]=temp;
-                }
-                // System.out.println(Arrays.toString(nums));
+                max=Math.max(max,nums[j]);
+                min=Math.min(min,nums[j]);
+                j++;
             }
-        }
-        for(int i=0;i<nums.length-1;i++)
-        {
-            if(nums[i]>nums[i+1])
+            // if ek segment ka max dusre segment ke min se bada hua to wo swap
+            // nhi ho skta we'll return false.
+            if(prevMax>min) 
             return false;
+            prevMax=max;
+            i=j;
         }
         return true;
-    }
-    private boolean sameSetBits(int a , int b)
-    {
-        int acnt=Integer.bitCount(a);
-        int bcnt=Integer.bitCount(b);
-        if(acnt==bcnt)
-        return true;
-        return false;
     }
 }
