@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0300-longest-increasing-subsequence](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0396-rotate-function) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0264-ugly-number-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0397-integer-replacement) |
 | [0518-coin-change-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0518-coin-change-ii) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0729-my-calendar-i) |
