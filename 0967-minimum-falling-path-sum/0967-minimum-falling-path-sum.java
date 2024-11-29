@@ -1,32 +1,31 @@
 class Solution {
-    int dp[][]; 
-
-    int solve(int[][] matrix, int row, int col) {
-        if (row >= matrix.length || col >= matrix[0].length || col < 0) {
-            return Integer.MAX_VALUE;
+     public int minFallingPathSum(int[][] matrix) {
+        int n = matrix.length;
+        int m = matrix[0].length;
+        int min = Integer.MAX_VALUE;
+        int[][] dp = new int[n][m];
+        for (int[] row : dp) {
+            Arrays.fill(row, Integer.MIN_VALUE);
         }
-        if (row == matrix.length - 1) {
-            if (col < matrix[0].length && col >= 0)
-                return matrix[row][col];
+        for (int j = 0; j < m; j++) {
+            min = Math.min(min, func(0, j, matrix, dp));
+        }
+        return min;
+     }
+     public int func(int i, int j, int[][] matrix, int[][] dp) {
+        if (i>=matrix.length || j < 0 || j >= matrix[0].length)
+            return Integer.MAX_VALUE;
+        if (i == matrix.length-1)
+            if (j < matrix[0].length && j >= 0)
+                return matrix[i][j];
             else 
                 return 0;
-        }
-        if (dp[row][col] != Integer.MIN_VALUE) {
-            return dp[row][col];
-        }
-        return dp[row][col] = matrix[row][col] + Math.min(solve(matrix,row + 1, col), 
-        Math.min(solve(matrix, row + 1, col - 1), solve(matrix, row + 1, col + 1)));
+        if (dp[i][j] != Integer.MIN_VALUE)
+            return dp[i][j];
+        int ld = func(i + 1, j, matrix, dp);
+        int d = func(i + 1, j + 1, matrix, dp);
+        int rd = func(i + 1, j - 1, matrix, dp);
+        return dp[i][j] = matrix[i][j] + Math.min(d, Math.min(ld, rd));
     }
 
-    public int minFallingPathSum(int[][] matrix) {
-        dp = new int[matrix.length][matrix[0].length];
-        for (int [] a : dp) {
-            Arrays.fill(a, Integer.MIN_VALUE);
-        }
-        int min_value = Integer.MAX_VALUE;
-        for (int i = 0; i < matrix.length; ++i) {
-            min_value = Math.min(min_value, solve(matrix, 0, i));
-        }
-        return min_value;
-    }
 }
