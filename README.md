@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1036-rotting-oranges) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
+| [0967-minimum-falling-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1105-uncrossed-lines](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1105-uncrossed-lines) |
 | [1196-filling-bookcase-shelves](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1240-stone-game-ii) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0921-spiral-matrix-iii) |
+| [0967-minimum-falling-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
