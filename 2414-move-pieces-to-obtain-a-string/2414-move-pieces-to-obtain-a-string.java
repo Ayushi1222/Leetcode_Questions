@@ -1,43 +1,40 @@
-class Solution {
+public class Solution {
 
     public boolean canChange(String start, String target) {
-        Queue<Pair<Character, Integer>> startQueue =
-            new LinkedList<>(), targetQueue = new LinkedList<>();
-        for (int i = 0; i < start.length(); i++) 
-        {
-            if (start.charAt(i) != '_') 
-            {
-                startQueue.add(new Pair<>(start.charAt(i), i));
-            }
-            if (target.charAt(i) != '_') 
-            {
-                targetQueue.add(new Pair<>(target.charAt(i), i));
-            }
-        }
+        int startLength = start.length();
+        // Pointers for start string and target string
+        int startIndex = 0, targetIndex = 0;
 
-        // If number of pieces don't match, return false
-        if (startQueue.size() != targetQueue.size()) return false;
-
-        // Compare each piece's type and position
-        while (!startQueue.isEmpty()) {
-            Pair<Character, Integer> startPair = startQueue.poll();
-            Pair<Character, Integer> targetPair = targetQueue.poll();
-
-            char startChar = startPair.getKey();
-            int startIndex = startPair.getValue();
-            char targetChar = targetPair.getKey();
-            int targetIndex = targetPair.getValue();
-
-            // Check character match and movement rules
-            if (
-                startChar != targetChar ||
-                (startChar == 'L' && startIndex < targetIndex) ||
-                (startChar == 'R' && startIndex > targetIndex)
+        while (startIndex < startLength || targetIndex < startLength) {
+            // Skip underscores in start
+            while (
+                startIndex < startLength && start.charAt(startIndex) == '_'
             ) {
-                return false;
+                startIndex++;
             }
+            // Skip underscores in target
+            while (
+                targetIndex < startLength && target.charAt(targetIndex) == '_'
+            ) {
+                targetIndex++;
+            }
+            // If one string is exhausted, both should be exhausted
+            if (startIndex == startLength || targetIndex == startLength) {
+                return startIndex == startLength && targetIndex == startLength;
+            }
+
+            // Check if the pieces match and follow movement rules
+            if (
+                start.charAt(startIndex) != target.charAt(targetIndex) ||
+                (start.charAt(startIndex) == 'L' && startIndex < targetIndex) ||
+                (start.charAt(startIndex) == 'R' && startIndex > targetIndex)
+            ) return false;
+
+            startIndex++;
+            targetIndex++;
         }
 
+        // If all conditions are satisfied, return true
         return true;
     }
 }
