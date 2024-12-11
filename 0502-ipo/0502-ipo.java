@@ -1,44 +1,26 @@
 class Solution {
-    private static class Project {
-        int capital;
-        int profit;
+    public int findMaximizedCapital(int k, int w, final int[] profits, final int[] capital) {
+        final int n = profits.length;
+        final int[][] projects = new int[n][2];
 
-        Project(int capital, int profit) {
-            this.capital = capital;
-            this.profit = profit;
-        }
-    }
-
-    public int findMaximizedCapital(int k, int w, int[] profits, int[] capital) {
-        int n = profits.length;
-        List<Project> projects = new ArrayList<>();
-
-        // Creating list of projects with capital and profits
-        for (int i = 0; i < n; i++) {
-            projects.add(new Project(capital[i], profits[i]));
+        for(int i = 0; i < n; ++i) {
+            projects[i][0] = capital[i];
+            projects[i][1] = profits[i];
         }
 
-        // Sorting projects by capital required
-        Collections.sort(projects, (a, b) -> a.capital - b.capital);
+        Arrays.sort(projects, (a, b) -> a[0] - b[0]);
 
-        // Max-heap to store profits (using a min-heap with inverted values)
-        PriorityQueue<Integer> maxHeap = new PriorityQueue<>((x, y) -> y - x);
-        int i = 0;
+        final PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
 
-        // Main loop to select up to k projects
-        for (int j = 0; j < k; j++) {
-            // Add all profitable projects that we can afford
-            while (i < n && projects.get(i).capital <= w) {
-                maxHeap.add(projects.get(i).profit);
-                i++;
-            }
+        int idx = 0;
 
-            // If no projects can be funded, break out of the loop
-            if (maxHeap.isEmpty()) {
+        while(k-- > 0) {
+            while(idx < n && projects[idx][0] <= w)
+                maxHeap.offer(projects[idx++][1]);
+
+            if(maxHeap.isEmpty())
                 break;
-            }
 
-            // Otherwise, take the project with the maximum profit
             w += maxHeap.poll();
         }
 
