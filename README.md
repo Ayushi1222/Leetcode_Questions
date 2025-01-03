@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2378-sender-with-largest-word-count](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2378-sender-with-largest-word-count) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2379-maximum-total-importance-of-roads) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2232-adding-spaces-to-a-string) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Linked List
