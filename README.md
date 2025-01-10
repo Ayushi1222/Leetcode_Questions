@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0070-climbing-stairs) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0234-palindrome-linked-list) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0143-reorder-list) |
@@ -735,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [1002-maximum-width-ramp](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1002-maximum-width-ramp) |
