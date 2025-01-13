@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0952-word-subsets) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0967-minimum-falling-path-sum) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0999-regions-cut-by-slashes) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0967-minimum-falling-path-sum) |
 | [1105-uncrossed-lines](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1105-uncrossed-lines) |
 | [1196-filling-bookcase-shelves](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1196-filling-bookcase-shelves) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0859-design-circular-deque) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -891,4 +895,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2605-count-anagrams](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2605-count-anagrams) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
