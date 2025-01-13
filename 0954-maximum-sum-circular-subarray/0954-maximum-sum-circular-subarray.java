@@ -24,7 +24,9 @@ class Solution {
                 sum2 = 0;
             totalSum+=nums[i];
         }
-        if(totalSum==min_sum) return max_sum;
+        // If all elements are -ve then no relavance of min_sum
+        // 1) if(max_sum<0) return max_sum;
+        if(totalSum==min_sum) return max_sum; //2) if all the elements in array are negative.
         return Math.max(totalSum-min_sum, max_sum);
     }
 }
