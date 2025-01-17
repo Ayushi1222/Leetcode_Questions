@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2530-minimize-maximum-of-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2530-minimize-maximum-of-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2530-minimize-maximum-of-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2530-minimize-maximum-of-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2509-minimize-xor](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2509-minimize-xor) |
+| [2530-minimize-maximum-of-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2530-minimize-maximum-of-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2530-minimize-maximum-of-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2530-minimize-maximum-of-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## String
 |  |
@@ -538,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2530-minimize-maximum-of-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2530-minimize-maximum-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Linked List
