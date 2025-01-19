@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0396-rotate-function) |
+| [0407-trapping-rain-water-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0477-total-hamming-distance](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0477-total-hamming-distance) |
 | [0496-next-greater-element-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0502-ipo) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0948-sort-an-array) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0210-course-schedule-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0801-is-graph-bipartite](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0801-is-graph-bipartite) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0999-regions-cut-by-slashes) |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0967-minimum-falling-path-sum) |
