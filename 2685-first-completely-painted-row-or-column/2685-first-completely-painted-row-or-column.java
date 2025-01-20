@@ -1,28 +1,39 @@
 class Solution {
     public int firstCompleteIndex(int[] arr, int[][] mat) {
-        int m = mat.length;
-        int n = mat[0].length;
-        HashMap<Integer, int[]> map = new HashMap<>();
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                map.put(mat[i][j], new int[]{i, j});
-            }
-        }
-        int[] rowCount = new int[m];
-        int[] colCount = new int[n];
+        Map<Integer, Integer> map = new HashMap<Integer, Integer>();
         for (int i = 0; i < arr.length; i++) 
         {
-            int value = arr[i];
-            int[] pos = map.get(value);
-            int row = pos[0];
-            int col = pos[1];
-            rowCount[row]++;
-            colCount[col]++;
-            if (rowCount[row] == n || colCount[col] == m) 
-            {
-                return i;
-            }
+            map.put(arr[i], i);
         }
-        return -1;
+        int ans = Integer.MAX_VALUE;
+        int r = mat.length;
+        int c = mat[0].length;
+        for (int i = 0; i < r; i++) 
+        {
+            // Tracks the greatest index in this row
+            int lastElementIndex = Integer.MIN_VALUE;
+            for (int j = 0; j < c; j++) 
+            {
+                int indexVal = map.get(mat[i][j]);
+                lastElementIndex = Math.max(lastElementIndex, indexVal);
+            }
+            // Update ans with the minimum index where any row is fully painted
+            ans = Math.min(ans, lastElementIndex);
+        }
+
+        // Check same for columns
+        for (int j = 0; j < c; j++) 
+        {
+            int lastElementIndex = Integer.MIN_VALUE;
+            for (int i = 0; i < r; i++) 
+            {
+                int indexVal = map.get(mat[i][j]);
+                lastElementIndex = Math.max(lastElementIndex, indexVal);
+            }
+            // Update ans with the minimum index where any column is fully painted
+            ans = Math.min(ans, lastElementIndex);
+        }
+
+        return ans;
     }
 }
