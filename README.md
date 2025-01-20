@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2727-number-of-senior-citizens) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2605-count-anagrams](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2605-count-anagrams) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
