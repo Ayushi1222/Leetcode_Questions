@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2232-adding-spaces-to-a-string) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2145-grid-game) |
 | [2411-spiral-matrix-iv](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2472-build-a-matrix-with-conditions) |
