@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0045-jump-game-ii) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0141-linked-list-cycle) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0407-trapping-rain-water-ii) |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0052-n-queens-ii) |
