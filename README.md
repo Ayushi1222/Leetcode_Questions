@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2846-robot-collisions) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2846-robot-collisions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2846-robot-collisions) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3544-count-almost-equal-pairs-ii) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
 | [2035-count-sub-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2035-count-sub-islands) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Strongly Connected Component
 |  |
 | ------- |
