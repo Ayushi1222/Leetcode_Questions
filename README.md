@@ -650,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1240-stone-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1240-stone-game-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1642-water-bottles](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2155-find-missing-observations) |
