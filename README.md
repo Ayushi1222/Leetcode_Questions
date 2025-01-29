@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0820-find-eventual-safe-states) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0210-course-schedule-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0407-trapping-rain-water-ii) |
+| [0684-redundant-connection](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0820-find-eventual-safe-states) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -855,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0999-regions-cut-by-slashes) |
