@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-global-and-local-inversions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0790-global-and-local-inversions) |
 | [0817-design-hashmap](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0817-design-hashmap) |
 | [0841-shortest-distance-to-a-character](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0841-shortest-distance-to-a-character) |
+| [0854-making-a-large-island](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0890-lemonade-change) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0854-making-a-large-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0854-making-a-large-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1036-rotting-oranges](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1036-rotting-oranges) |
@@ -764,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0407-trapping-rain-water-ii) |
+| [0854-making-a-large-island](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0921-spiral-matrix-iii) |
 | [0967-minimum-falling-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0967-minimum-falling-path-sum) |
@@ -867,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1396-count-servers-that-communicate](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
