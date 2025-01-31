@@ -1,89 +1,67 @@
 class Solution {
 
     public int largestIsland(int[][] grid) {
-        Map<Integer, Integer> islandSizes = new HashMap<>();
+        Map<Integer, Integer> map = new HashMap<>();
         int islandId = 2;
-
-        for (int currentRow = 0; currentRow < grid.length; ++currentRow) {
-            for (
-                int currentColumn = 0;
-                currentColumn < grid[0].length;
-                ++currentColumn
-            ) {
-                if (grid[currentRow][currentColumn] == 1) {
-                    islandSizes.put(
-                        islandId,
-                        exploreIsland(grid, islandId, currentRow, currentColumn)
-                    );
-                    ++islandId;
+        for (int i = 0; i < grid.length; i++) 
+        {
+            for (int j = 0;j < grid[0].length;j++) 
+            {
+                if (grid[i][j] == 1) 
+                {
+                    map.put(islandId,exploreIsland(grid, islandId, i, j));
+                    islandId++;
                 }
             }
         }
 
-        if (islandSizes.isEmpty()) {
+        // If there are no islands, return 1
+        if (map.isEmpty()) 
+        {
             return 1;
         }
-        if (islandSizes.size() == 1) {
+        if (map.size() == 1) 
+        {
             --islandId;
-            return (islandSizes.get(islandId) == grid.length * grid[0].length)
-                ? islandSizes.get(islandId)
-                : islandSizes.get(islandId) + 1;
+            return (map.get(islandId) == grid.length * grid[0].length)
+                ? map.get(islandId)
+                : map.get(islandId) + 1;
         }
 
         int maxIslandSize = 1;
 
-        for (int currentRow = 0; currentRow < grid.length; ++currentRow) {
-            for (
-                int currentColumn = 0;
-                currentColumn < grid[0].length;
-                ++currentColumn
-            ) {
-                if (grid[currentRow][currentColumn] == 0) {
+        for (int i = 0; i < grid.length; i++) 
+        {
+            for (int j = 0;j < grid[0].length;j++) 
+            {
+                if (grid[i][j] == 0) 
+                {
                     int currentIslandSize = 1;
-                    Set<Integer> neighboringIslands = new HashSet<>();
+                    Set<Integer> neighborSet = new HashSet<>();
 
                     // Check down
-                    if (
-                        currentRow + 1 < grid.length &&
-                        grid[currentRow + 1][currentColumn] > 1
-                    ) {
-                        neighboringIslands.add(
-                            grid[currentRow + 1][currentColumn]
-                        );
+                    if (i + 1 < grid.length &&grid[i + 1][j] > 1) {
+                        neighborSet.add(grid[i + 1][j]);
                     }
 
                     // Check up
-                    if (
-                        currentRow - 1 >= 0 &&
-                        grid[currentRow - 1][currentColumn] > 1
-                    ) {
-                        neighboringIslands.add(
-                            grid[currentRow - 1][currentColumn]
-                        );
+                    if (i - 1 >= 0 &&grid[i - 1][j] > 1) {
+                        neighborSet.add(grid[i - 1][j]);
                     }
 
                     // Check right
-                    if (
-                        currentColumn + 1 < grid[0].length &&
-                        grid[currentRow][currentColumn + 1] > 1
-                    ) {
-                        neighboringIslands.add(
-                            grid[currentRow][currentColumn + 1]
-                        );
+                    if (j + 1 < grid[0].length && grid[i][j + 1] > 1) {
+                        neighborSet.add(grid[i][j + 1]);
                     }
 
                     // Check left
-                    if (
-                        currentColumn - 1 >= 0 &&
-                        grid[currentRow][currentColumn - 1] > 1
-                    ) {
-                        neighboringIslands.add(
-                            grid[currentRow][currentColumn - 1]
-                        );
+                    if (j - 1 >= 0 &&grid[i][j - 1] > 1) {
+                        neighborSet.add(grid[i][j - 1]);
                     }
 
-                    for (int id : neighboringIslands) {
-                        currentIslandSize += islandSizes.get(id);
+                    // Sum the sizes of all unique neighboring islands
+                    for (int id : neighborSet) {
+                        currentIslandSize += map.get(id);
                     }
 
                     maxIslandSize = Math.max(maxIslandSize, currentIslandSize);
@@ -94,27 +72,23 @@ class Solution {
         return maxIslandSize;
     }
 
-    private int exploreIsland(
-        int[][] grid,
-        int islandId,
-        int currentRow,
-        int currentColumn
-    ) {
+    private int exploreIsland(int[][] grid,int islandId,int i,int j) {
         if (
-            currentRow < 0 ||
-            currentRow >= grid.length ||
-            currentColumn < 0 ||
-            currentColumn >= grid[0].length ||
-            grid[currentRow][currentColumn] != 1
-        ) return 0;
+            i < 0 ||
+            i >= grid.length ||
+            j < 0 ||
+            j >= grid[0].length ||
+            grid[i][j] != 1
+        )
+        return 0;
 
-        grid[currentRow][currentColumn] = islandId;
+        grid[i][j] = islandId;
         return (
             1 +
-            exploreIsland(grid, islandId, currentRow + 1, currentColumn) +
-            exploreIsland(grid, islandId, currentRow - 1, currentColumn) +
-            exploreIsland(grid, islandId, currentRow, currentColumn + 1) +
-            exploreIsland(grid, islandId, currentRow, currentColumn - 1)
+            exploreIsland(grid, islandId, i + 1, j) +
+            exploreIsland(grid, islandId, i - 1, j) +
+            exploreIsland(grid, islandId, i, j + 1) +
+            exploreIsland(grid, islandId, i, j - 1)
         );
     }
 }
