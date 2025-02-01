@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0179-largest-number) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0110-balanced-binary-tree) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0115-distinct-subsequences) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0179-largest-number) |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0854-making-a-large-island) |
@@ -864,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0113-path-sum-ii) |
 ## Union Find
 |  |
