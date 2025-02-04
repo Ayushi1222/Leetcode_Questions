@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2379-maximum-total-importance-of-roads) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2803-modify-graph-edge-weights) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2439-longest-cycle-in-a-graph](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Hash Table
 |  |
