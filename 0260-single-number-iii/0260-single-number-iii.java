@@ -1,19 +1,30 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        HashMap<Integer, Integer> map=new HashMap<>();
-        int[] ans=new int[2];
-        for(int i=0;i<nums.length;i++)
-        {
-            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+        int xor = 0;
+        for (int num : nums) {
+            xor ^= num;
         }
-        int k=0;
-        for(int i:map.keySet())
+
+        int mask = 1;
+        while ((xor & mask) == 0) {
+            mask <<= 1;
+        }
+
+        int num1 = 0;
+        int num2 = 0;
+
+        for (int num : nums) 
         {
-            if(map.get(i)==1)
+            if ((num & mask) == 0) 
             {
-                ans[k++]=i;
+                num1 ^= num;
+            }
+            else 
+            {
+                num2 ^= num;
             }
         }
-        return ans;
+
+        return new int[] { num1, num2 };
     }
 }
