@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0397-integer-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0664-strange-printer) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0402-remove-k-digits) |
 | [0468-validate-ip-address](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0468-validate-ip-address) |
+| [0516-longest-palindromic-subsequence](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0567-permutation-in-string) |
