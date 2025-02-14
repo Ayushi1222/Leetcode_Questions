@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1396-count-servers-that-communicate) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1694-make-sum-divisible-by-p](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1240-stone-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1240-stone-game-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -946,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0859-design-circular-deque) |
 | [1023-time-based-key-value-store](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1023-time-based-key-value-store) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2434-design-a-number-container-system) |
 ## Binary Search Tree
@@ -961,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Game Theory
 |  |
 | ------- |
