@@ -1,12 +1,10 @@
 class Solution {
 
     public int minOperations(int[] nums, int k) {
-        PriorityQueue<Long> minHeap = new PriorityQueue<Long>(
-            Arrays.stream(nums)
-                .mapToLong(i -> (long) i)
-                .boxed()
-                .collect(Collectors.toList())
-        );
+        PriorityQueue<Long> minHeap = new PriorityQueue<Long>();
+        for (int num : nums) {
+            minHeap.add((long) num); 
+        }
         int numOperations = 0;
 
         while (minHeap.peek() < k) {
