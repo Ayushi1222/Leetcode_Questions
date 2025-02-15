@@ -723,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2605-count-anagrams](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2605-count-anagrams) |
 | [2645-pass-the-pillow](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2645-pass-the-pillow) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Recursion
@@ -923,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0113-path-sum-ii) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Union Find
 |  |
 | ------- |
