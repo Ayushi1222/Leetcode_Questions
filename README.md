@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1803-average-waiting-time) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1923-sentence-similarity-iii) |
@@ -924,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0113-path-sum-ii) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Union Find
 |  |
