@@ -14,24 +14,30 @@
  * }
  */
 class FindElements {
-    HashSet<Integer> set=new HashSet<>();
+    private TreeNode root;
     private void recover(TreeNode root, int val)
     {
         if(root==null) return;
         root.val=val;
-        set.add(val);
         recover(root.left,2*val+1);
         recover(root.right,2*val+2);
     }
 
     public FindElements(TreeNode root) {
+        this.root=root;
         recover(root,0);
     }
     
     public boolean find(int target) {
-        if(set.contains(target))
-        return true;
-        return false;
+        return findTarget(root, target);
+    }
+    private boolean findTarget(TreeNode root,int target)
+    {
+        if(root==null) return false;
+        if(root.val==target) return true;
+        boolean left=findTarget(root.left,target);
+        boolean right=findTarget(root.right,target);
+        return left || right;
     }
 }
 
