@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1803-average-waiting-time) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1923-sentence-similarity-iii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1897-maximize-palindrome-length-from-subsequences) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2530-minimize-maximum-of-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2530-minimize-maximum-of-array) |
