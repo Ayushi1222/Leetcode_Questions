@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1008-binary-tree-cameras) |
 | [1105-uncrossed-lines](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1105-uncrossed-lines) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1121-partition-array-for-maximum-sum) |
+| [1170-shortest-common-supersequence](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1250-longest-common-subsequence) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1304-longest-happy-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
