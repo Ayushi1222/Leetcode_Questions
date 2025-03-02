@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2755-extra-characters-in-a-string) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-count-anagrams](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2605-count-anagrams) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
