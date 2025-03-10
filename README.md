@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3483-alternating-groups-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3544-count-almost-equal-pairs-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
 |  |
 | ------- |
