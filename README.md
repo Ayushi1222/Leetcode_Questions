@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/0966-binary-subarrays-with-sum) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1502-construct-k-palindrome-strings) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1304-longest-happy-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/1524-string-matching-in-an-array) |
