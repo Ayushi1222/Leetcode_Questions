@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3544-count-almost-equal-pairs-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3544-count-almost-equal-pairs-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3643-zero-array-transformation-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2530-minimize-maximum-of-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3643-zero-array-transformation-ii) |
 ## String
 |  |
 | ------- |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3643-zero-array-transformation-ii](https://github.com/Ayushi1222/Leetcode_Questions/tree/master/3643-zero-array-transformation-ii) |
 ## Linked List
 |  |
 | ------- |
